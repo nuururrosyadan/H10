@@ -281,3 +281,8 @@ div {
   padding: 21px 25px;
   display: none;
 }
+
+.fa-bars:after {
+    content: "\f0c9";
+    display: none;
+}
