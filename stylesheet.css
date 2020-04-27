@@ -273,16 +273,3 @@ div {
   opacity: 0.8;
 }
 /*end footer*/
-
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 25px;
-  display: none;
-}
-
-.fa-bars:after {
-    content: "\f0c9";
-    display: none;
-}
