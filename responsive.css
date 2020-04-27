@@ -45,9 +45,17 @@
   .benefit-icon p {
     top: 220px;
   }
+  
+  .header {
+    width: 100%;
+  }
 
   .header-right {
     display: none;
+  }
+  
+  .menu-icon {
+    display: block;
   }
 
   .top-wrapper {
