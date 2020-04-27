@@ -67,14 +67,6 @@ div {
   opacity: 0.9;
   font-family: 'Noto Sans', sans-serif;
 }
-
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 25px;
-  display: none;
-}
 /*end header*/
 
 /*top wrapper background*/
@@ -281,3 +273,11 @@ div {
   opacity: 0.8;
 }
 /*end footer*/
+
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 25px;
+  display: none;
+}
